@@ -3,7 +3,7 @@
 <h1 align="center">MJV School Node.js </h1>
 <h2 align="center">Semana 2 </h2>
 
-<p align="center"><img width="450px" src="https://media.licdn.com/dms/image/sync/C5627AQG1NMYeBNOjQQ/articleshare-shrink_1280_800/0/1678762416436?e=1679713200&v=beta&t=Qnujx4jSmE165tjbVJTQuthik23aDystBuIoNpnUwtE" /></p>
+<p align="center"><img width="450px" src="https://github.com/lucarauj/assets/blob/main/MJV%20School.jpg" /></p>
 
 <br> 
 
